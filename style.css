@@ -1,0 +1,132 @@
+.navigation{
+    height:150px;
+    width:1450px;
+    border: 1px solid black;
+    background-color: rgba(139, 0, 0, 0.61);
+    display: flex;
+    padding: 10px;
+    /* position:fixed;
+    top:0px; */
+    justify-content: space-between;
+    margin:0px 2px 15px 2px;
+
+}
+.image{
+    height:100px;
+    width:300px;
+    margin:10px;
+    padding:8px;
+    font-size: 30px;
+}
+#image-id{
+    height:40px;
+    width:40px;
+    margin:8px;
+}
+.nav-bar{
+    height:150px;
+    width:700px;
+    border:1 px solid black;
+    padding: 10px;
+    margin:10px;
+    display:flex;
+    align-content: space-around;
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bolder;
+    
+    
+    
+}
+
+   
+
+a{
+    text-decoration: none;
+
+}
+.book-trial{
+    height:30px;
+    width:110px;
+    position:relative;
+    right:80px;
+    top:25px;
+    font-size: 20px;
+    border: 2px solid blue;
+    border-radius: 18%;
+    text-align: center;
+    padding:5px;
+    font-weight: bold;
+    background-color: rgba(240, 248, 255, 0.958);
+}
+.book-trial:hover{
+    background-color: rgba(0, 0, 255, 0.225);
+}
+.para{
+    height:90px;
+    width:1000px;
+    background-color: bisque;
+    margin:auto  ;
+    padding: 10px;
+    border-radius: 4%;
+    
+}
+p1{
+    font-size: 25px;
+    color:brown;
+    font-weight: bolder;
+}
+p2{
+    color:black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.nature{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:5px 50px 0px 80px;
+    
+    
+}
+.nature-image{
+    height:280px;
+    width:310px;
+    margin:20px;
+    padding:15px;
+    border:1px solid white;
+    
+
+
+}
+#img{
+    height: 260px;
+    width:260px;
+    border-radius: 5%;
+}
+.book-trial2{
+    height:300px;
+    width:1450px;
+    background-color: aquamarine;
+}
+.book-try{
+    height:200px;
+    width:1000px;
+   margin: auto;
+}
+#p1{
+    text-align: center;
+    font-size: 20px;
+    color:rgba(0, 0, 255, 0.803)
+}
+#main-p{
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: center;
+    color:brown;
+}
